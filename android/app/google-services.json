@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616469509147",
+    "project_id": "aman-e0d19",
+    "storage_bucket": "aman-e0d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616469509147:android:c8888fbefbf4ff376074be",
+        "android_client_info": {
+          "package_name": "com.example.aman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCa_cdbt-3RihZ-hPJw737F_9ycHi8gSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
